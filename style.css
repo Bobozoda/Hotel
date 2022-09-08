@@ -45,3 +45,229 @@
 .hdi:hover{
     background-color: #CCCCCC;
 }
+.bg{
+    width: 100%;
+    height: 110vh;
+    background-image: url(./images/hotel.jpg);
+}
+.registration{
+    width: 560px;
+    height: 325px;
+    padding: 200px 30px;
+    padding-bottom: 0;
+
+}
+.hotel{
+    background-color:#F44336;
+    padding: 10px 10px;
+}
+.hotel h2{
+    color: white;
+    font-weight: 400;
+    font-size: 30px; 
+}
+.pr{
+    background-color: white;
+}
+.bolo{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.date{
+    width: 260px;
+    height: 36px;
+    color: grey;
+    border-color: white;
+}
+.poyon{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.but{
+    margin-left: 5px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: #616161;
+    width: 200px;
+    height: 40px;
+}
+#fa{
+    padding-right: 20px;
+}
+.but:hover{
+    background-color: #CCCCCC;
+    color: black;
+}
+.mid{
+    background-color: #F1F1F1;
+}
+#r{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 15px;
+    padding-top: 25px;
+}
+#p{
+    font-weight: 400;
+    font-size: 14px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.fr{
+    display: flex;
+    margin-top: 22px;
+    justify-content: space-around;
+}
+.but1{
+    margin-left: 5px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: black;
+    width: 200px;
+    height: 40px;
+}
+.but1:hover{
+    background-color: #CCCCCC;
+    color: black;
+}
+.surato{
+    display: flex;
+    margin: 0px 10px;
+    justify-content: space-evenly;
+}
+.yakm{
+    background-color: white;
+}
+.yakm img{
+    width: 420px;
+    height: 271px;
+}
+.yakm h3{
+    font-weight: 400;
+    font-size: 23px;
+    padding-left: 15px;
+    padding-top: 7px;
+}
+.dum{
+    background-color: white;
+}
+.dum img{
+    width: 420px;
+    height: 271px;
+}
+.dum h3{
+    font-weight: 400;
+    font-size: 23px;
+    padding-left: 15px;
+    padding-top: 7px;
+}
+.sem{
+    background-color: white;
+}
+.sem img{
+    width: 420px;
+    height: 271px;
+}
+.sem h3{
+    font-weight: 400;
+    font-size: 23px;
+    padding-left: 15px;
+    padding-top: 7px;
+}
+.price{
+    padding-left: 15px;
+    padding-top: 15px;
+    color: grey;
+    font-size: 14px;
+}
+.bed{
+    font-size: 14px;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-weight: 500;
+}
+.cub{
+    font-size: 14px;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-weight: 500;
+}
+.ic{
+    padding-left: 15px;
+    padding-top: 15px;
+    font-size: 14px;
+}
+#icc{
+    padding-left: 10px;
+}
+.button{
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    padding: 7px 0px;
+    width: 95%;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.main{
+    margin-top: 30px;
+    display: flex;
+}
+
+.left h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    /* padding-top: 73px; */
+    padding-left: 24px;
+}
+
+.left .hot{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 24px;
+    padding-top: 24px;
+    line-height: 25px;
+}
+.card{
+    padding-left: 24px;
+    padding-top: 16px;
+}
+
+ .right img{
+    /* padding-top: 73px; */
+    width: 100%;
+}
+
+ .left{
+    width: 60%;
+    height: 76vh;
+    margin-right: 20px;
+} 
+#nav{
+    color: #F44336;
+}
+.poy{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+.srx{
+    margin-top: 30px;
+    background-color: #F44336;
+    padding: 30px 20px;
+}
+#inf{
+    padding: 7px 15px;
+    background-color: #FF5722;
+    color: white;
+}
+.srx span{
+    font-size: 16px;
+    padding-left: 30px;
+    color: white;
+}
